@@ -49,6 +49,9 @@ div .summary div{
     margin-top: 55px;
     text-align: center;
 }
+div .summary div a{
+	color: #ffffff;
+}
 div .preamble{
 	background-color: #ececec;
     margin-top: -19px;
@@ -124,6 +127,9 @@ div .parrafo1 p{
     margin-left: 25px;
     margin-top: 25px;
 }
+div .parrafo1 p a{
+	color: #ffffff;
+}
 div .parrafo2{
 	background-color: #0B6DE5;
     width: 320px;
@@ -163,6 +169,9 @@ div .parrafo3 p{
     text-align: justify;
     margin-left: 25px;
     margin-top: 25px;
+}
+div .parrafo3 p a{
+	color: #ffffff;
 }
 div .benefits{
 	background-color: #ececec;
@@ -235,10 +244,9 @@ footer a{
     text-align: center;
     margin-left: 117px;
 }
-div .sidebar{
+aside .design-selection{
 	background-color: #ececec;
-	margin-top: -19px;
-	height: 365px;
+	height: 340px;
 }
 
 div .design-selection h3{
@@ -272,7 +280,7 @@ aside .wrapper img .linea-uno{
 div .design-archives {
 	float: left;
     margin-left: 500px;
-    margin-top: -214px;
+    margin-top: -260px;
 }
 
 div .design-archives h3{
@@ -297,7 +305,7 @@ div .design-archives ul a{
 div .zen-resources{
 	float: right;
     margin-right: 130px;
-    margin-top: -214px;
+    margin-top: -260px;
 }
 div .zen-resources h3{
 	font-size: 25px;
