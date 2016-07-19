@@ -87,9 +87,9 @@ div .explanation p{
     font-family: arial;
 }
 div .explanation  img{
-	margin-left: 200px;
+	margin-left: -470px;
     float: left;
-    margin-top: 97px;
+    margin-top: -251px
 }
 div .participation{
     height: 600px;
